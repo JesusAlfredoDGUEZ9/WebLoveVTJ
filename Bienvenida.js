@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ '¡Qué alegría', 'tenerte en este sitio', 'que he creado especialmente para ti!' ],
+			strings: [ 'Bienvenida Mi Niña', 'Espero que te guste' ],
 			
 			charSize: 30,
 			charSpacing: 30,
