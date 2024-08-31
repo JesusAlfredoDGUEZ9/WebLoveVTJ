@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'Bienvenida Mi Niña', 'Espero que te guste' ],
+			strings: [ 'Bienvenida a tu nuevo', 'espacio en la web.', 'Un espacio hecho solo', 'para ti', 'CON AMOR ❤️'],
 			
 			charSize: 12,
 			charSpacing: 10,
