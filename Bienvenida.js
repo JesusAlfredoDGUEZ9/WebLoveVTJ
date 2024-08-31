@@ -8,7 +8,7 @@ var w = c.width = window.innerWidth,
 		opts = {
 			strings: [ 'Bienvenida Mi Niña', 'Espero que te guste' ],
 			
-			charSize: 20,
+			charSize: 15,
 			charSpacing: 25,
 			lineHeight: 25,
 			
