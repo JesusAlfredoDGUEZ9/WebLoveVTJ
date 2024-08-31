@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'Este sitio es solo un pequeño', 'reflejo del amor inmenso que siento por ti', '♡ Te Quiero mi Niña Preciosa ♡' ],
+			strings: [ '¡Qué alegría', 'tenerte en este sitio', 'que he creado especialmente para ti!' ],
 			
 			charSize: 30,
 			charSpacing: 30,
