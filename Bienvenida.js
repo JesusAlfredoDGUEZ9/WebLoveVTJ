@@ -8,12 +8,12 @@ var w = c.width = window.innerWidth,
 		opts = {
 			strings: [ 'Bienvenida Mi Niña', 'Espero que te guste' ],
 			
-			charSize: 30,
-			charSpacing: 30,
-			lineHeight: 40,
+			charSize: 20,
+			charSpacing: 25,
+			lineHeight: 25,
 			
-			cx: w / 2,
-			cy: h / 2,
+			cx: w / 1,
+			cy: h / 1,
 			
 			fireworkPrevPoints: 10,
 			fireworkBaseLineWidth: 5,
